@@ -89,8 +89,8 @@ input, select, textarea{
   padding-left: 10px;
 }
 
-textarea {
-  padding-top: 10px;
+.input-wrapper textarea {
+  padding: 10px;
   
   min-width: 608px;
   max-width: 608px;
